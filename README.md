@@ -2,7 +2,9 @@
 - 국민대학교 2023년도 2학년 겨울학기 컴퓨터네트워크 과제
 ## Overview
 - 소켓 통신, HTTP을 이용하여 Client에서 Server읠 txt파일을 관리 생성. 
-- CLI형식으로 구현하였으며, 좀 더 명령어에 친숙함을 느끼기 위해, 리눅스 몇개의 명령어(ls, echo, rm, more)을 모방. 
+- CLI형식으로 구현하였으며, 좀 더 명령어에 친숙함을 느끼기 위해, 리눅스 몇개의 명령어(ls, echo, rm, more)을 모방.
+## Youtube Video
+[![Video Label](http://img.youtube.com/vi/u4n3PT6kwc8/0.jpg)](https://youtu.be/u4n3PT6kwc8=0s)
 
 ## Requirements
 - Python 3.8
